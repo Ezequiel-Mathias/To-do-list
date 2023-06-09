@@ -1,6 +1,6 @@
 # <h1 align="center"> Lista de tarefas</h1>
 
-#### Simples lista de tarefas feita com local storage em javascript com diferentes funcionalidades, tais como:
+#### Lista de tarefas com local storage feita em javascript com diferentes funcionalidades, tais como:
 
 - [x] Editar tarefa
 - [x] Criar tarefa
